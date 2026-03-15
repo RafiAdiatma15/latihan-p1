@@ -10,8 +10,8 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        String nama = "Adiatma Ganz";
-        String nim = "12345678";
+        String nama = "Muhammad Rafi Adiatma";
+        String nim = "20240910055";
         String prodi = "Sistem Informasi";
         String motivasi = "Saya belajar Java untuk meningkatkan kemampuan pemrograman dan membuat aplikasi yang bermanfaat.";
 
